@@ -1,8 +1,28 @@
-
 'use client';
+
 import StarRating from '@/components/ui/StarRating';
 
-export default function EmployeeDetail({ employee }) {
+interface Employee {
+  image: string;
+  firstName: string;
+  lastName: string;
+  department: string;
+  rating: number;
+  email: string;
+  phone: string;
+  projects: string | number;
+  feedback: string;
+  address?: {
+    city: string;
+    state: string;
+  };
+}
+
+interface EmployeeDetailProps {
+  employee: Employee;
+}
+
+export default function EmployeeDetail({ employee }: EmployeeDetailProps) {
   return (
     <div className="space-y-4">
       <div className="flex gap-6 items-center">
