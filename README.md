@@ -1,10 +1,10 @@
-# 🧑‍💼 HR Dashboard
+# HR Dashboard
 
 A responsive, dark-mode supported, interactive HR management dashboard built with **Next.js 14 App Router**, **Tailwind CSS**, **Lucide Icons**, and **React Context API**. This dashboard allows you to manage employees, view performance KPIs, apply smart filters, and toggle bookmarks.
 
 ---
 
-## 📁 Project Folder Structure
+## Project Folder Structure
 ```bash
 hr-dashboard/
 ├── app/
@@ -41,20 +41,20 @@ hr-dashboard/
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌙 Light/Dark mode toggle
-- 📊 Employee performance cards
-- 🔍 Search + filter (department, rating)
-- 📌 Bookmark employees
-- 🔐 Mock login authentication
-- 📱 Fully responsive UI with Tailwind CSS
-- 🧠 Context API state management
-- ✨ Lucide Icons for modern visuals
+-  Light/Dark mode toggle
+-  Employee performance cards
+-  Search + filter (department, rating)
+-  Bookmark employees
+-  Mock login authentication
+-  Fully responsive UI with Tailwind CSS
+-  Context API state management
+-  Lucide Icons for modern visuals
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - [Next.js 14](https://nextjs.org/)
 - [React 18](https://reactjs.org/)
@@ -64,7 +64,7 @@ hr-dashboard/
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```bash
 npm install
@@ -72,7 +72,7 @@ npm install tailwindcss postcss autoprefixer
 npm install lucide-react
 npm install tailwindcss @tailwindcss/postcss postcss
 ```
-🔧 Scripts
+ Scripts
 
 Command	Description
 npm run dev	Start the development server
@@ -84,9 +84,9 @@ npm run lint	Run ESLint to check code quality
 npm run dev
 Visit http://localhost:3000 to view the dashboard.
 
-🙌 Author
+ Author
 D. Ravikumara
-🎓 Dayananda Sagar College of Engineering, Bengaluru
-💻 B.E. in Computer Science and Engineering
+ Dayananda Sagar College of Engineering, Bengaluru
+ B.E. in Computer Science and Engineering
 
 
