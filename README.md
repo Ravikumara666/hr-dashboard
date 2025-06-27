@@ -5,7 +5,7 @@ A responsive, dark-mode supported, interactive HR management dashboard built wit
 ---
 
 ## 📁 Project Folder Structure
-
+```bash
 hr-dashboard/
 ├── app/
 │ ├── layout.tsx # Global layout with sidebar + theme
@@ -37,7 +37,7 @@ hr-dashboard/
 ├── next.config.ts
 ├── package.json
 └── README.md
-
+```
 
 ---
 
@@ -70,37 +70,20 @@ hr-dashboard/
 npm install
 npm install tailwindcss postcss autoprefixer
 npm install lucide-react
-npm install next react react-dom
-
+npm install tailwindcss @tailwindcss/postcss postcss
+```
 🔧 Scripts
+
 Command	Description
 npm run dev	Start the development server
 npm run build	Build the production app
 npm run start	Run production build
 npm run lint	Run ESLint to check code quality
 
-🧪 Getting Started
-Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/hr-dashboard.git
-cd hr-dashboard
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Run the development server:
-
-bash
-Copy
-Edit
 npm run dev
 Visit http://localhost:3000 to view the dashboard.
-```
+
 🙌 Author
 D. Ravikumara
 🎓 Dayananda Sagar College of Engineering, Bengaluru
