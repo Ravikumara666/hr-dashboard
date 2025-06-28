@@ -4,6 +4,10 @@ A responsive, dark-mode supported, interactive HR management dashboard built wit
 
 ---
 
+### PROJECT LIVE 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑
+
+   https://hr-dashboard-amber-mu.vercel.app/auth
+
 ## Project Folder Structure
 ```bash
 hr-dashboard/
